@@ -26,7 +26,7 @@ ES8 : Más funciones nuevas como Async/Await
 	Utilizado para realizar operaciones avanzadas y aplicaciones en servidores y computadoras con Javascript
 
 - NPM
- Utiu
+  Es una gran cantidad de librerías que puedes utilizar con NodeJS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MzQ4MTczXX0=
+eyJoaXN0b3J5IjpbMzcyODg0Njg0XX0=
 -->
