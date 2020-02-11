@@ -19,7 +19,14 @@ ES8 : Más funciones nuevas como Async/Await
 	Javascript es el lenguaje en el que programamos mientras que ECMAScript son las especificaciones que el lenguaje debe seguir.
 
 - Frameworks Javascript (Angular, React, Vue)
-  Son frameworks frontend para aplica
+  Son frameworks frontend para aplicaciones utilizados para simplificar la construcción de aplicaciones avanzadas e interactivas.
+
+- NodeJS
+	Plataforma hecha en Javascript
+	Utilizado para realizar operaciones avanzadas y aplicaciones en servidores y computadoras con Javascript
+
+- NPM
+ Utiu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4MjE4MjgxXX0=
+eyJoaXN0b3J5IjpbNDQ5MzQ4MTczXX0=
 -->
