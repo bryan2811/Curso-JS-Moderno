@@ -16,7 +16,10 @@ ES8 : Más funciones nuevas como Async/Await
 - Javascript
 	Es un lenguaje de scripting que sigue la especificación de ECMAScript
 	Es un dialecto del lenguaje ECMAScript
-	Javascript es el lenguaje en el que programamos mientras que ECMAScript son las especifiaciones que el lenguaje debe seguir.
+	Javascript es el lenguaje en el que programamos mientras que ECMAScript son las especificaciones que el lenguaje debe seguir.
+
+- Frameworks Javascript (Angular, React, Vue)
+  Son frameworks frontend para aplica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMjcwNzhdfQ==
+eyJoaXN0b3J5IjpbOTc4MjE4MjgxXX0=
 -->
