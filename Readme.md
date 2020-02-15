@@ -28,8 +28,10 @@ ES8 : Más funciones nuevas como Async/Await
 - NPM
   Es una gran cantidad de librerías que puedes utilizar con NodeJS
 
+# Fundamentos de JS
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDIyMDc1NzYsMTczNTgyMjI5NCwtND
+eyJoaXN0b3J5IjpbLTEwNzYyNjQ2MDksMTczNTgyMjI5NCwtND
 AxNDg1ODMwXX0=
 -->
