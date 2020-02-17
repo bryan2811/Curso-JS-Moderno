@@ -30,8 +30,12 @@ ES8 : Más funciones nuevas como Async/Await
 
 # Fundamentos de JS
 
+## Variables
 
+var version anterior
+let
+const
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYyNjQ2MDksMTczNTgyMjI5NCwtND
-AxNDg1ODMwXX0=
+eyJoaXN0b3J5IjpbOTA5MjA3MzksLTEwNzYyNjQ2MDksMTczNT
+gyMjI5NCwtNDAxNDg1ODMwXX0=
 -->
