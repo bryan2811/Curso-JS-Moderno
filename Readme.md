@@ -42,11 +42,21 @@ ES8 : Más funciones nuevas como Async/Await
    - primer_nombre // **underscore**
    - PrimerNombre // **pascal case**
 
+## Strings y sus métodos
+
+.length
+.concat
+
+
+
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzIzODg1MSwtMTE2MzQ5MjI5NCw5MD
-kyMDczOSwtMTA3NjI2NDYwOSwxNzM1ODIyMjk0LC00MDE0ODU4
-MzBdfQ==
+eyJoaXN0b3J5IjpbLTIxMDU1NjA2MzIsMTI2NzIzODg1MSwtMT
+E2MzQ5MjI5NCw5MDkyMDczOSwtMTA3NjI2NDYwOSwxNzM1ODIy
+Mjk0LC00MDE0ODU4MzBdfQ==
 -->
