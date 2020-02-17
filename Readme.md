@@ -35,7 +35,18 @@ ES8 : Más funciones nuevas como Async/Await
 - var :
 - let :
 - const :
+
+Formas de declarar una variable
+
+- primerNombre 
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM0OTIyOTQsOTA5MjA3MzksLTEwNz
-YyNjQ2MDksMTczNTgyMjI5NCwtNDAxNDg1ODMwXX0=
+eyJoaXN0b3J5IjpbMjA2OTI1MTQ0MCwtMTE2MzQ5MjI5NCw5MD
+kyMDczOSwtMTA3NjI2NDYwOSwxNzM1ODIyMjk0LC00MDE0ODU4
+MzBdfQ==
 -->
