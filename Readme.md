@@ -34,7 +34,7 @@ ES8 : Más funciones nuevas como Async/Await
 
 - var : Puede iniciar vacía, **puede redeclararse**
 - let : Puede iniciar vacía, **no puede redeclararse**
-- const :
+- const : No puede iniciar vacía, 
 
 Formas de declarar una variable
 
@@ -42,7 +42,7 @@ Formas de declarar una variable
 - primer_nombre // underscore
 - PrimerNombre // pascal case
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyODQzMjEyLC0xMTYzNDkyMjk0LDkwOT
-IwNzM5LC0xMDc2MjY0NjA5LDE3MzU4MjIyOTQsLTQwMTQ4NTgz
-MF19
+eyJoaXN0b3J5IjpbMTU2NTk1MTMxMywtMTE2MzQ5MjI5NCw5MD
+kyMDczOSwtMTA3NjI2NDYwOSwxNzM1ODIyMjk0LC00MDE0ODU4
+MzBdfQ==
 -->
