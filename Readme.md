@@ -46,6 +46,8 @@ ES8 : Más funciones nuevas como Async/Await
 
 .length
 .concat
+.toUpperCase
+.toLowerCase
 
 
 
@@ -56,7 +58,7 @@ ES8 : Más funciones nuevas como Async/Await
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU1NjA2MzIsMTI2NzIzODg1MSwtMT
+eyJoaXN0b3J5IjpbLTEzMTAyNzk3MjUsMTI2NzIzODg1MSwtMT
 E2MzQ5MjI5NCw5MDkyMDczOSwtMTA3NjI2NDYwOSwxNzM1ODIy
 Mjk0LC00MDE0ODU4MzBdfQ==
 -->
