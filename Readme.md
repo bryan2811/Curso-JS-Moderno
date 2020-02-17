@@ -38,9 +38,11 @@ ES8 : Más funciones nuevas como Async/Await
 
 Formas de declarar una variable
 
-- primerNombre // 
+- primerNombre // camelcase
+- primer_nombre // underscore
+- PrimerNombre // pascal case
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI5OTk0OTYsLTExNjM0OTIyOTQsOT
-A5MjA3MzksLTEwNzYyNjQ2MDksMTczNTgyMjI5NCwtNDAxNDg1
-ODMwXX0=
+eyJoaXN0b3J5IjpbMTU5NTIxMjUsLTExNjM0OTIyOTQsOTA5Mj
+A3MzksLTEwNzYyNjQ2MDksMTczNTgyMjI5NCwtNDAxNDg1ODMw
+XX0=
 -->
