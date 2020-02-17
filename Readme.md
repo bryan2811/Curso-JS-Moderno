@@ -38,15 +38,9 @@ ES8 : Más funciones nuevas como Async/Await
 
 Formas de declarar una variable
 
-- primerNombre 
-
-
-
-
-
-
+- primerNombre = 'Juan' 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTI1MTQ0MCwtMTE2MzQ5MjI5NCw5MD
+eyJoaXN0b3J5IjpbMTI2Nzk2NTAyNywtMTE2MzQ5MjI5NCw5MD
 kyMDczOSwtMTA3NjI2NDYwOSwxNzM1ODIyMjk0LC00MDE0ODU4
 MzBdfQ==
 -->
