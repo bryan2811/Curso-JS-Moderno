@@ -32,10 +32,10 @@ ES8 : Más funciones nuevas como Async/Await
 
 ## Variables
 
-var version anterior
-let
-const
+- var :
+- let :
+- const :
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MjA3MzksLTEwNzYyNjQ2MDksMTczNT
-gyMjI5NCwtNDAxNDg1ODMwXX0=
+eyJoaXN0b3J5IjpbLTExNjM0OTIyOTQsOTA5MjA3MzksLTEwNz
+YyNjQ2MDksMTczNTgyMjI5NCwtNDAxNDg1ODMwXX0=
 -->
