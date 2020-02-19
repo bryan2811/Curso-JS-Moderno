@@ -50,7 +50,9 @@ ES8 : Más funciones nuevas como Async/Await
 .toLowerCase()
 .indexOf()
 .substring()
-.slice
+.slice()
+.split()
+.replace
 
 
 
@@ -60,7 +62,7 @@ ES8 : Más funciones nuevas como Async/Await
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2NTc2MTY5LC0xMzEwMjc5NzI1LDEyNj
+eyJoaXN0b3J5IjpbMTY0NTM1MDU3LC0xMzEwMjc5NzI1LDEyNj
 cyMzg4NTEsLTExNjM0OTIyOTQsOTA5MjA3MzksLTEwNzYyNjQ2
 MDksMTczNTgyMjI5NCwtNDAxNDg1ODMwXX0=
 -->
