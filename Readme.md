@@ -44,10 +44,11 @@ ES8 : Más funciones nuevas como Async/Await
 
 ## Strings y sus métodos
 
-.length
-.concat
-.toUpperCase
-.toLowerCase
+.length()
+.concat()
+.toUpperCase()
+.toLowerCase()
+.indexOf()
 
 
 
@@ -58,7 +59,7 @@ ES8 : Más funciones nuevas como Async/Await
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTAyNzk3MjUsMTI2NzIzODg1MSwtMT
-E2MzQ5MjI5NCw5MDkyMDczOSwtMTA3NjI2NDYwOSwxNzM1ODIy
-Mjk0LC00MDE0ODU4MzBdfQ==
+eyJoaXN0b3J5IjpbLTE0NTY4MzUyNjEsLTEzMTAyNzk3MjUsMT
+I2NzIzODg1MSwtMTE2MzQ5MjI5NCw5MDkyMDczOSwtMTA3NjI2
+NDYwOSwxNzM1ODIyMjk0LC00MDE0ODU4MzBdfQ==
 -->
