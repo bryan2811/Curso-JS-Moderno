@@ -56,7 +56,7 @@ ES8 : Más funciones nuevas como Async/Await
 .includes()
 .repeat()
 
-
+## Números en JS y Operaciones
 
 
 
@@ -65,7 +65,7 @@ ES8 : Más funciones nuevas como Async/Await
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDU2MzY2MiwtMTMxMDI3OTcyNSwxMj
+eyJoaXN0b3J5IjpbMjA4NDMwNTIxMywtMTMxMDI3OTcyNSwxMj
 Y3MjM4ODUxLC0xMTYzNDkyMjk0LDkwOTIwNzM5LC0xMDc2MjY0
 NjA5LDE3MzU4MjIyOTQsLTQwMTQ4NTgzMF19
 -->
