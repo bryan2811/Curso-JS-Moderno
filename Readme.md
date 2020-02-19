@@ -52,7 +52,10 @@ ES8 : Más funciones nuevas como Async/Await
 .substring()
 .slice()
 .split()
-.replace
+.replace()
+.includes()
+.repeat()
+
 
 
 
@@ -62,7 +65,7 @@ ES8 : Más funciones nuevas como Async/Await
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTM1MDU3LC0xMzEwMjc5NzI1LDEyNj
-cyMzg4NTEsLTExNjM0OTIyOTQsOTA5MjA3MzksLTEwNzYyNjQ2
-MDksMTczNTgyMjI5NCwtNDAxNDg1ODMwXX0=
+eyJoaXN0b3J5IjpbMTk5NDU2MzY2MiwtMTMxMDI3OTcyNSwxMj
+Y3MjM4ODUxLC0xMTYzNDkyMjk0LDkwOTIwNzM5LC0xMDc2MjY0
+NjA5LDE3MzU4MjIyOTQsLTQwMTQ4NTgzMF19
 -->
